@@ -51,9 +51,8 @@ Tourly-agency/
 ├── favicon.svg
 ├── index.html
 ├── README.md
-└── style-guide.md
 ```
 
 ## Credits
 
-Modified and maintained by [shikharsinha](https://github.com/Shikhar1504) (as indicated in the modified footer copyright).
+Modified and maintained by [shikharsinha](https://github.com/Shikhar1504).
